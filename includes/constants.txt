@@ -1,0 +1,7 @@
+<?php
+  define("DB", "tributos2");
+    define("HOST", "localhost");
+    define("USER", "first");
+    define("PASS", "3674783");
+
+?>

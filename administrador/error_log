@@ -1,0 +1,58 @@
+[26-Nov-2019 04:49:25 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 04:49:33 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 04:49:48 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 04:49:52 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 04:50:03 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 04:50:03 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 04:50:27 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 04:50:41 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 04:50:46 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 11:01:00 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 11:01:00 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 16:35:58 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 16:36:37 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 16:36:37 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 16:37:27 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 16:39:55 UTC] PHP Notice:  Undefined index: nombAdmi in /home/cwqdgyuarpsw/public_html/administrador/administrador.php on line 34
+[26-Nov-2019 16:39:55 UTC] PHP Notice:  Undefined index: apelAdmi in /home/cwqdgyuarpsw/public_html/administrador/administrador.php on line 34
+[26-Nov-2019 16:39:55 UTC] PHP Notice:  Undefined index: user_id in /home/cwqdgyuarpsw/public_html/administrador/administrador.php on line 35
+[26-Nov-2019 16:44:09 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 16:44:09 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 16:44:29 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 16:44:29 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 16:44:37 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 16:44:37 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 16:44:39 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 16:44:39 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 16:45:13 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 16:45:13 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 16:45:41 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 16:45:41 UTC] PHP Warning:  A non-numeric value encountered in /home/cwqdgyuarpsw/public_html/administrador/reporte.php on line 86
+[26-Nov-2019 17:07:23 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 17:11:21 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 17:48:35 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 20:26:02 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 20:32:12 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 20:32:23 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[26-Nov-2019 20:43:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cwqdgyuarpsw/public_html/administrador/det_pred.php on line 21
+[26-Nov-2019 20:43:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cwqdgyuarpsw/public_html/administrador/det_pred.php on line 21
+[26-Nov-2019 20:43:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cwqdgyuarpsw/public_html/administrador/det_pred.php on line 21
+[26-Nov-2019 20:44:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cwqdgyuarpsw/public_html/administrador/det_pred.php on line 21
+[26-Nov-2019 20:45:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cwqdgyuarpsw/public_html/administrador/det_pred.php on line 21
+[26-Nov-2019 20:46:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cwqdgyuarpsw/public_html/administrador/det_pred.php on line 21
+[26-Nov-2019 20:46:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cwqdgyuarpsw/public_html/administrador/det_pred.php on line 21
+[26-Nov-2019 20:52:09 UTC] PHP Notice:  Undefined index: nombAdmi in /home/cwqdgyuarpsw/public_html/administrador/administrador.php on line 34
+[26-Nov-2019 20:52:09 UTC] PHP Notice:  Undefined index: apelAdmi in /home/cwqdgyuarpsw/public_html/administrador/administrador.php on line 34
+[26-Nov-2019 20:52:09 UTC] PHP Notice:  Undefined index: user_id in /home/cwqdgyuarpsw/public_html/administrador/administrador.php on line 35
+[27-Nov-2019 12:20:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cwqdgyuarpsw/public_html/administrador/det_pred.php on line 21
+[27-Nov-2019 12:21:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cwqdgyuarpsw/public_html/administrador/det_pred.php on line 21
+[27-Nov-2019 12:21:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cwqdgyuarpsw/public_html/administrador/det_pred.php on line 21
+[27-Nov-2019 13:45:19 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[27-Nov-2019 13:50:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cwqdgyuarpsw/public_html/administrador/det_pred.php on line 21
+[27-Nov-2019 13:50:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cwqdgyuarpsw/public_html/administrador/det_pred.php on line 21
+[27-Nov-2019 13:51:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cwqdgyuarpsw/public_html/administrador/det_pred.php on line 21
+[27-Nov-2019 13:52:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cwqdgyuarpsw/public_html/administrador/det_pred.php on line 21
+[27-Nov-2019 16:17:57 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[27-Nov-2019 16:22:56 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[27-Nov-2019 16:30:30 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422
+[27-Nov-2019 16:30:47 UTC] PHP Notice:  Undefined variable: porcentaje in /home/cwqdgyuarpsw/public_html/includes/sql.php on line 422

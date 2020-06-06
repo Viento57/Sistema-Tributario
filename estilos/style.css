@@ -1,0 +1,19 @@
+.form-label-group{
+    position: relative;
+}
+
+input:focus~label, input:valid~label{
+    position: absolute;
+    top: -18px; 
+    font-size: 12px;
+    color: #2196F3;
+}
+.float-label{
+    color: gray;
+    font-size: 1em;
+    position: absolute;
+    left: 8px;
+    top: 6px;
+    transition: 0.3s all ease;
+    pointer-events: none;
+}
